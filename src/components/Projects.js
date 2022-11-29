@@ -14,9 +14,9 @@ const Projects = () => {
           <p className="text-4xl font-bold inline border-b-4 border-[#E25822] ">
             Projects
           </p>
-          <p className="py-6">Check out my recent projects</p>
+          <p className="py-4">Check out my recent projects</p>
         </div>
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-2">
           <div
             style={{ backgroundImage: `url(${Manage})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"

@@ -23,7 +23,7 @@ const About = () => {
               versed in all the key languages in the MERN stack. I am a talented
               individual with industrious and systematic approach to learning
               new technology. I am an open and clear worker with disciplined execution
-              and methodical nature. I am also motivated individual with formal
+              and methodical nature. I am also a motivated individual with formal
               knowledge gained through excellent classroom performance. I offer
               excellent communication and organizational abilities along with
               fluency in virtual work.

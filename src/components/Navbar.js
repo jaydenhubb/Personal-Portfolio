@@ -10,7 +10,7 @@ const Navbar = () => {
 
   const handleHam = () => setHam(!ham);
   return (
-    <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
+    <div className="fixed bg-opacity-0 w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
       <div>
         <img src={Finaljo} alt="initials" style={{ width: "80px" }} />
       </div>

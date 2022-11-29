@@ -1,8 +1,8 @@
 import Finaljo from "../assets/finaljo.jpg";
 import { FaBars, FaTimes, FaLinkedin, FaGithub } from "react-icons/fa";
-import {BsFillPersonLinesFill} from "react-icons/bs"
+import { BsFillPersonLinesFill } from "react-icons/bs";
 import { useState } from "react";
-import {Link} from 'react-scroll'
+import { Link } from "react-scroll";
 import Resume from "../assets/cv.pdf";
 
 const Navbar = () => {

@@ -117,7 +117,7 @@ const Projects = () => {
             {/* hover effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React App
+                Express & EJs app 
               </span>
               <div className="pt-8 text-center">
                 <a

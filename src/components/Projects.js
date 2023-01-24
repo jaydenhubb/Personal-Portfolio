@@ -90,7 +90,7 @@ const Projects = () => {
               </span>
               <div className="pt-8 text-center">
                 <a
-                  href="https://tourmaline-kleicha-f1df4e.netlify.app/"
+                  href="https://shufflecardsgame.netlify.app"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

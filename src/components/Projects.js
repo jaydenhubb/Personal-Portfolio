@@ -2,6 +2,7 @@ import Manage from "../assets/chart.jpg";
 import Quiz from "../assets/quiz.jpg";
 import Match from "../assets/cards.jpg";
 import Blog from "../assets/blogapi.jpg";
+import Mern from "../assets/fix.jpg";
 
 const Projects = () => {
   return (
@@ -28,7 +29,7 @@ const Projects = () => {
               </span>
               <div className="pt-8 text-center">
                 <a
-                  href="https://wonderful-horse-541572.netlify.app/"
+                  href="https://manage4landingpage.netlify.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -38,6 +39,37 @@ const Projects = () => {
                 </a>
                 <a
                   href="https://github.com/jaydenhubb/manage-landing-page"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    code
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${Mern})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            {/* hover effects */}
+            <div className="opacity-0 group-hover:opacity-100">
+              <span className="text-2xl font-bold text-white tracking-wider">
+                MERN stack
+              </span>
+              <div className="pt-8 text-center">
+                <a
+                  href="https://jay-authent.vercel.app/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    live
+                  </button>
+                </a>
+                <a
+                  href="https://github.com/jaydenhubb/MERN-Auth-system"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -59,7 +91,7 @@ const Projects = () => {
               </span>
               <div className="pt-8 text-center">
                 <a
-                  href="https://dapper-fudge-cd878c.netlify.app/"
+                  href="https://guessgame5.netlify.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
